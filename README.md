@@ -8,10 +8,7 @@ I'm a passionate full-stack developer with expertise in Next.js and Django, brin
 
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://github.com/kingofgreatnezzz?tab=followers"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://github.com/kingofgreatnezzz?tab=stars"/></a>
+    
    </p>
 
 ---
@@ -29,8 +26,6 @@ I'm a passionate full-stack developer with expertise in Next.js and Django, brin
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img  align="left" alt="next" color="white" width="30px" style="padding-right:10px;"
 src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor"/>
-<img  align="left" alt="next" color="white" width="30px" style="padding-right:10px;"
-scr="https://icongr.am/devicon/illustrator-line.svg?size=128&color=currentColor"/>
 <br />
 
 
@@ -63,30 +58,18 @@ Fine-tuning my Dockerized deployment strategies for Next.js applications and opt
 He/Him
 
 ## ⚡ Fun fact: ...
-
-I have a strong passion for brewing my own coffee blends and exploring new hiking trails during the weekends!
-
-Looking forward to connecting with fellow developers and enthusiasts. Let's code something extraordinary! 🚀
-
-
-
+- I learn new language every year
+- I'm a deep thinker
+- I'm an art lover , creator and explorer
+- I give more than i recieve
 
 ## 📫 How to reach me: ...
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) or drop me an email at [kingofgreatnezzz@gmail.com](kingofgreatnezzz@gmail.com). I'm always open to discussing exciting new projects and opportunities.
+Connect with me on social media:
 
-<div align="center">
-<a href="http://github.com/mzoyinda" target="_blank">
-<img src=[https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white](https://github.com/kingofgreatnezzz) alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/oyindawodu" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/oyin-dawodu" target="_blank">
-<img src="linkedin.com/in/king-of-greatness-66544127b" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/oyin_dawodu/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:oyindamoladawodu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" /> </a> 
-</div> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/king-of-greatness-66544127b)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/kingofgreatness)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/kingofgreatness/)
+
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname/) or drop me an email at [kingofgreatnezzz@gmail.com](kingofgreatnezzz@gmail.com). I'm always open to discussing exciting new projects and opportunities.
