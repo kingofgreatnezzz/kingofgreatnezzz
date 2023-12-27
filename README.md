@@ -4,8 +4,7 @@
 <h3 align="center">Software Engineer 👩🏾‍💻 | Artist🎨 | Open Source Advocate ✨ | Community Manager 🧡 </h3>
 <br/>
 
-I'm a passionate full-stack developer with expertise in Next.js and Django, bringing innovative solutions to complex problems. Here's a glimpse of what I'm up to:
-
+Passionate full-stack developer and artist specializing in Python, Django, and Next.js. 🐍🌐 Crafting innovative web solutions and bringing creativity to code. 🎨 My GitHub is a canvas where lines of code merge with artistic expression. Explore the intersection of technology and creativity with me. where creativity know no boundaries. #Python #Django #NextJS #WebDev #Artist 🚀
 
    <p align="left">
     
